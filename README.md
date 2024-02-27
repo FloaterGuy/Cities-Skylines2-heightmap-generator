@@ -2,6 +2,9 @@ This is a fork of a fork (clusterfuck I know, im going to change nothing but the
 this fork will not be hosted by me at all for public use. if you see this edited version of this code being ran anywhere on the internet, please be careful as I do not endorse it at all whatsoever,
 and i am not responsible for any malicious activity
 
+I am not a programmer, so i have no idea what im doing. To run this code I just select everything in the src file and click and drag it into firefox and it seems to work (it will open a bunch of tabs, just click the tab with the html file)
+
+
 [![CodeFactor](https://www.codefactor.io/repository/github/sysoppl/cities-skylines-heightmap-generator/badge)](https://www.codefactor.io/repository/github/sysoppl/cities-skylines-heightmap-generator)
 *This is a fork of original heightmap builder (JBerg60/cities-heightmap)*
 
