@@ -1,5 +1,12 @@
+This is a fork of a fork (clusterfuck I know, im going to change nothing but the PNG output size to 4096x4096 for better compatibility with CS2)
+this fork will not be hosted by me at all for public use. if you see this edited version of this code being ran anywhere on the internet, please be careful as I do not endorse it at all whatsoever,
+and i am not responsible for any malicious activity
+
 [![CodeFactor](https://www.codefactor.io/repository/github/sysoppl/cities-skylines-heightmap-generator/badge)](https://www.codefactor.io/repository/github/sysoppl/cities-skylines-heightmap-generator)
 *This is a fork of original heightmap builder (JBerg60/cities-heightmap)*
+
+
+
 # Updated! Should work now!
 # Cities: Skylines online heightmap generator
 Online heightmap generator for Cities: Skylines
